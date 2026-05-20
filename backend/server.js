@@ -139,4 +139,4 @@ app.listen(PORT, async () => {
   await initDb();
 });
 
-// holaaa backend prueba pipeline
+// hola soy sergio martinez y estoy editando el backend para probar el pipeline de github actions
